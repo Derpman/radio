@@ -1,0 +1,10 @@
+div#siteManagment
+{
+	display: inline-block;
+	width: 28%;
+}
+div#fileStructure
+{
+	width: 68%;
+	display: inline-block;
+}
